@@ -1,0 +1,151 @@
+.startphone {
+	background-color: #0099DD;
+	width: 1450px;
+	height: 536px;
+	box-sizing: border-box;
+}
+	
+.png1 {
+	padding-left: 5%;
+	padding-top: -10%;
+}
+.text2 {
+	position: absolute;
+	width: 622px;
+	height: 184px;
+	left: 244px;
+	top: 136px;
+
+	font-family: 'Intro ';
+	font-size: 38px;
+	line-height: 53px;
+	display: flex;
+	align-items: center;
+	color: #FFFFFF;
+	
+}
+.text3 {
+	position: absolute;
+	width: 318px;
+	height: 32px;
+	left: 245px;
+	top: 288px;
+	font-family: 'Intro ';
+	font-size: 24px;
+	line-height: 31px;
+	display: flex;
+	align-items: center;
+	color: #FC880D;
+	
+}
+.text4 {
+	position: absolute;
+	width: 209px;
+	height: 44px;
+	left: 245px;
+	top: 349px;
+	font-family: 'Proxima Nova';
+	font-size: 14px;
+	line-height: 17px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #FFFFFF;
+	
+}
+.bar1 {
+	position:relative;
+	top: 158px;
+	left: 270px;
+}
+.bar2 {
+	position: relative;
+	top: 180px;
+	left: 267px;
+}
+
+
+.png3 {
+	margin-bottom: -533px;
+}
+
+.png4 {
+	
+	margin-left: 900px;
+	position:absolute;
+	
+}
+
+.nazblock1 {
+	color: #0099DD;
+}
+.block1 {
+	width: 100%;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-left: 8%;
+	margin-bottom: 10px;	
+}
+.data1 {
+	color: #DF7401;
+}
+.nazblock2 {
+	color: #0099DD;
+}
+.block2 {
+	width: 100%
+	position: absolute;
+	padding-left: 8%;
+	padding-top: 20px;
+	margin-bottom: 10px;
+}
+.data2 {
+	color: #DF7401;
+}
+.nazblock3 {
+	color: #0099DD;
+}
+.block3 {
+	width: 100%;
+	padding-left: 8%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	
+}
+.data3 {
+	color: #DF7401;
+}
+.text5 {
+	background: linear-gradient( #0099DD 80%, #222B3A 20%);	
+	padding-top: 20px;
+	padding-bottom: 40px;
+	padding-left: 7%;
+	width: 1450px;
+	box-sizing: border-box;
+	color: #FFFFFF;
+	height: 270px;
+}
+.text6 {
+	position: absolute;
+	width: 30px;
+	height: 32px;
+	left: 290px;
+	top: 530px;
+	font-family: 'Proxima Nova';
+	font-size: 30px;
+	line-height: 30px;
+	color: #FFFFFF;
+	
+}
+.text7 {
+	position: absolute;
+	width: 30px;
+	height: 32px;
+	left: 320px;
+	top: 515px;
+	font-family: 'Proxima Nova';
+	font-size: 30px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
